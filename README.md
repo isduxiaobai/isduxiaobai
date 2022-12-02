@@ -26,13 +26,13 @@
 
 
 ### Get in touch
- [![1024Code](https://img.shields.io/badge/1024Code-green)](https://1024code.com/5p2c5bC1)
-[![CSDN](https://img.shields.io/badge/CSDN-orange)](https://blog.csdn.net/qq_43412080?spm=1010.2135.3001.5421)
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/isduxiaobai)
 
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/du-xiao-bai-62-79)
 [![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://s1.ax1x.com/2022/12/02/zDPhAs.jpg)
 
+ [![1024Code](https://img.shields.io/badge/1024Code-green)](https://1024code.com/5p2c5bC1)
+[![CSDN](https://img.shields.io/badge/CSDN-orange)](https://blog.csdn.net/qq_43412080?spm=1010.2135.3001.5421)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/isduxiaobai)
 
 [![Twitter](https://img.shields.io/badge/Twitter-white?logo=twitter)](https://twitter.com/duxiaobai5/)
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)](https://www.instagram.com/duxiaobai1215/)
