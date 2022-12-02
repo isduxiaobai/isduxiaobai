@@ -12,8 +12,13 @@
 
     > **Note:** 所有内容均有作者自行完成，部分内容来自网络资源整合。仅供参考学习.
 
+2.个人搜集整理的电子资源
 
-2.GitHub
+  [![Electronic_resources](https://github-readme-stats.vercel.app/api/pin?username=isduxiaobai&repo=Electronic_resources&theme=radical)](https://github.com/isduxiaobai/Electronic_resources)
+
+  > **Note:** 仅限学习交流使用，若涉及侵权，联系删除
+
+3.GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isduxiaobai&layout=compact)](https://github.com/isduxiaobai)
 
