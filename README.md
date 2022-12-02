@@ -21,6 +21,7 @@
 
 
 ### Get in touch
+[![1024Code](https://img.shields.io/badge/1024Code-green)](https://1024code.com/5p2c5bC1)
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/du-xiao-bai-62-79)
 [![微信公众号](https://img.shields.io/badge/微信公众号-white?logo=wechat)](https://s1.ax1x.com/2022/12/02/zDPhAs.jpg)
 
