@@ -14,13 +14,13 @@
 
 2.个人搜集整理的电子资源
 
-  [![Electronic_resources](https://github-readme-stats.vercel.app/api/pin?username=isduxiaobai&repo=Electronic_resources&theme=radical)](https://github.com/isduxiaobai/Electronic_resources)
+    [![Electronic_resources](https://github-readme-stats.vercel.app/api/pin?username=isduxiaobai&repo=Electronic_resources&theme=radical)](https://github.com/isduxiaobai/Electronic_resources)
 
-  > **Note:** 仅限学习交流使用，若涉及侵权，联系删除
+    > **Note:** 仅限学习交流使用，若涉及侵权，联系删除
 
 3.GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isduxiaobai&layout=compact)](https://github.com/isduxiaobai)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isduxiaobai&layout=compact)](https://github.com/isduxiaobai)
 
    ![isduxiaobai's GitHub stats](https://github-readme-stats.vercel.app/api?username=isduxiaobai&show_icons=true&theme=tokyonight)
 
